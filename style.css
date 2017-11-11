@@ -19,3 +19,24 @@ nav ul {
   margin-right: 0;
   margin-bottom: 0;
 }
+
+nav ul li {
+  display: inline;
+  margin-right: 10x;
+}
+
+nav a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 18px;
+}
+
+header h3 {
+  float: left;
+  font-size: 30px;
+}
+
+header h3 a {
+  text-decoration: none;
+  color: #868e96;
+}
