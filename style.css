@@ -5,7 +5,11 @@
 header{
   height: 100px;
   border-bottom: 1px solid #ccccc;
+  nav {
+      float: right;
+  }
 }
+
 
 body {
   padding: 0 30px 0 30px;
